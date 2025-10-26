@@ -189,6 +189,7 @@ This project was created to:
 
 ---
 ## 🙏 Acknowledgements
+
 A huge thank you to **Vinitha John**, for guiding me patiently, teaching the concepts clearly, and inspiring me to keep experimenting.  
 Shoutout to my awesome teammates **Shresti Subahar** and **Grehna Marian** for collaborating, sharing ideas, and making this project way more fun and manageable.  
 And of course, cheers to everyone who helped indirectly—through tips, tutorials, or just moral support—keeping the coding vibes alive! 🚀
