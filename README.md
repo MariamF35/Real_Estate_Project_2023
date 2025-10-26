@@ -183,9 +183,9 @@ This project was created to:
 
 ## 👨‍💻 Author
 
-**Name:** Mariam Fatima, Shresti Subahar, Grehna Geo Marian
-**Email:** mariam37009@gmail.com
-**GitHub:** https://github.com/MariamF35/
+* **Name:** Mariam Fatima, Shresti Subahar, Grehna Geo Marian
+* **Email:** mariam37009@gmail.com
+* **GitHub:** https://github.com/MariamF35/
 
 ---
 ## 🙏 Acknowledgements
